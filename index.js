@@ -6,7 +6,7 @@ const bot = mineflayer.createBot({
     port: 25565,
     username: "AFK",
     auth: "offline",
-    version: "1.24.5"  // Beispiel: Stelle sicher, dass du die richtige Version verwendest
+    version: "1.21.4"  // Beispiel: Stelle sicher, dass du die richtige Version verwendest
   });
 // Event-Listener für den Login
 bot.on('login', () => {
