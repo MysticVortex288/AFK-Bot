@@ -4,9 +4,8 @@ const mineflayer = require('mineflayer');
 const bot = mineflayer.createBot({
     host: "MysticVortex786.aternos.me",
     port: 25565,
-    username: "AFK",
-    auth: "offline",
-    version: "1.21.4"  // Beispiel: Stelle sicher, dass du die richtige Version verwendest
+    username: "Lemonvide",  // Dein echtes Minecraft-Account-Username
+    auth: "microsoft",  // Wenn du ein Microsoft-Konto verwendest
   });
 // Event-Listener für den Login
 bot.on('login', () => {
