@@ -4,7 +4,7 @@ const mineflayer = require('mineflayer');
 const bot = mineflayer.createBot({
   host: "MysticVortex786.aternos.me",  // Ersetze mit deiner Server-IP
   port: 25565,  // Standard-Port für Minecraft
-  username: "AFK",  // Dein Bot-Account (am besten ein Alt-Account)
+  username: "minecraft-afk-bot",  // Dein Bot-Account (am besten ein Alt-Account)
   auth: "offline" // Setze auf "microsoft", falls du einen echten MC-Account nutzt
 });
 
