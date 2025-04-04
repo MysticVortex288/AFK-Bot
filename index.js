@@ -2,7 +2,7 @@ const mineflayer = require('mineflayer');
 
 // Minecraft-Account-Daten
 const bot = mineflayer.createBot({
-    host: "MysticVortex786.aternos.me",
+    host: "MysticVortex786.aternos.me:57979",
     port: 25565,
     username: "Lemonvide",  // Dein echtes Minecraft-Account-Username
     auth: "microsoft",  // Wenn du ein Microsoft-Konto verwendest
